@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@virtualeconomy/js-v-sdk",
+  "name": "@liuhuanhui/js-v-sdk",
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
